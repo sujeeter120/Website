@@ -1,0 +1,17 @@
+/* Font Awesome */
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url(https://use.fontawesome.com/releases/v5.15.3/webfonts/all.css) format('woff2');
+  }
+  
+  .fa,
+  .fab,
+  .far,
+  .fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+  }
+  
